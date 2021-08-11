@@ -1,0 +1,15 @@
+.messageSelf{
+    background-color:rgb(216, 102, 108);
+    text-decoration: "none";
+    margin-bottom: 1%;
+    margin-left: 20%;
+    width: 50%;
+    text-align: right;
+}
+
+.messageOther{
+    background-color:darkgrey;
+    text-decoration: "none";
+    margin-bottom: 1%;
+    width: 50%
+}
